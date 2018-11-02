@@ -18,7 +18,7 @@
  */
 definition(
     name: "wemo connect advanced",
-    namespace: "smartapps",
+    namespace: "wemo",
     author: "SmartThings,Ule",
     description: "Allows you to integrate your WeMo Switch and Wemo Motion sensor with SmartThings.",
     category: "SmartThings Labs",

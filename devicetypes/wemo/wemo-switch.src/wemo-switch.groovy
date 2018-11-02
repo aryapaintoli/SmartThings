@@ -16,7 +16,7 @@
  * Date: 2015-10-11
  */
  metadata {
- 	definition (name: "Wemo Switch", namespace: "mujica", author: "SmartThings") {
+ 	definition (name: "Wemo Switch", namespace: "wemo", author: "SmartThings") {
         capability "Actuator"
         capability "Switch"
         capability "Polling"

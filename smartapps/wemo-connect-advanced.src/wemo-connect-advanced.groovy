@@ -17,8 +17,8 @@
  *  Last Update : 2016-02-24
  */
 definition(
-    name: "Wemo (Connect) Advanced",
-    namespace: "mujica",
+    name: "wemo-connect-advanced",
+    namespace: "aryasmartthings",
     author: "SmartThings,Ule",
     description: "Allows you to integrate your WeMo Switch and Wemo Motion sensor with SmartThings.",
     category: "SmartThings Labs",
